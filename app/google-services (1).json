@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830315057484",
+    "project_id": "androidmessenger-6560b",
+    "storage_bucket": "androidmessenger-6560b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830315057484:android:79970631cc63843c9a7fe9",
+        "android_client_info": {
+          "package_name": "com.kazy.androidmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1cRGiIpMRqGm1Pm7HnOE3xIfm7MtII1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
